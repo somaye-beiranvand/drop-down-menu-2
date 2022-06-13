@@ -21,7 +21,8 @@ nav>ul>li{
     box-sizing: border-box;
     border-right: 2px solid #fff;
     position: relative;
-    font-size: 17px;    
+    font-size: 17px;
+    color: #053742;    
 }
 nav>ul>li:hover {
     cursor: pointer;
